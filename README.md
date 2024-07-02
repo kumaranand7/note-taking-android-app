@@ -4,7 +4,7 @@
 Users can use these features:
 - Create Notes
 - Color Notes
-- Save Notes
+- Save Notes 
 - Edit Notes
 - Delete Note
 
